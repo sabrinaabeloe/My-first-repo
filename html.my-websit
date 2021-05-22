@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<h1>I love my Dog</h1>
+<h2> By: Sabrina</h2>
+</head>
+<body>
+<nav>
+<a href="#">Home</a>
+<a href="#">Roger</a>
+<a href="#">Diet</a>
+</nav>
+<ul>
+  <li>Height: 12in</li>
+  <li>Weight: 35lb.</li>
+  <li>Breed: Corgi</li>
+</ul>
+  <img src href="img_7610.jpeg"</img>
+  
+
+
+
+
+
+
+
+</body>
+</html>
